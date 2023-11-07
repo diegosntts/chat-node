@@ -21,7 +21,7 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 
 ## Uso
 
-1. Inicie o servidor:
+1. Inicie o servidor: yarn dev
 
 2. Abra seu navegador e acesse `http://localhost:3000`.
 
