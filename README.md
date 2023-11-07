@@ -17,7 +17,8 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
    cd chat-node
 
 3. Instale as dependências:
-   npm install
+   
+   yarn install
 
 ## Uso
 
