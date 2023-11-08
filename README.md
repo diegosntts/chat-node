@@ -9,15 +9,18 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 ## Instalação
 
 1. Clone este repositório:
-
+   
+   ```bash
    git clone https://github.com/diegosntts/chat-node.git
 
-2. Navegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
 
+   ```bash
    cd chat-node
 
-3. Instale as dependências:
-   
+5. Instale as dependências:
+
+   ```bash
    yarn install
 
 ## Uso
