@@ -25,15 +25,15 @@ Certifique-se de ter o Node.js instalado em seu sistema. Você pode baixá-lo em
 
 ## Uso
 
-1. Inicie o servidor: yarn dev
+1. Inicie o servidor: `yarn dev`
+   
+3. Abra seu navegador e acesse `http://localhost:3000`.
 
-2. Abra seu navegador e acesse `http://localhost:3000`.
+4. Você verá um formulário de entrada de mensagens. Digite uma mensagem e pressione "Enviar".
 
-3. Você verá um formulário de entrada de mensagens. Digite uma mensagem e pressione "Enviar".
+5. Sua mensagem será enviada e exibida na lista de mensagens.
 
-4. Sua mensagem será enviada e exibida na lista de mensagens.
-
-5. Abra uma nova guia ou navegador e acesse `http://localhost:3000`. Você pode iniciar uma conversa em tempo real entre as duas guias ou navegadores.
+6. Abra uma nova guia ou navegador e acesse `http://localhost:3000`. Você pode iniciar uma conversa em tempo real entre as duas guias ou navegadores.
 
 ## Contribuição
 
